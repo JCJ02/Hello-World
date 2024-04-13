@@ -8,7 +8,8 @@ export default {
     extend: {
       fontFamily: {
         'inter': ['Inter'],
-        'dancingScript': ['Dancing Script']
+        'dancingScript': ['Dancing Script'],
+        'sourceCodePro': ['Source Code Pro']
       }
     },
   },
