@@ -5,13 +5,12 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {
-      fontFamily: {
-        'inter': ['Inter'],
-        'dancingScript': ['Dancing Script'],
-        'sourceCodePro': ['Source Code Pro']
-      }
+    fontFamily: {
+      'inter': ['Inter'],
+      'dancingScript': ['Dancing Script'],
+      'sourceCodePro': ['Source Code Pro']
     },
+    extend: {},
   },
   plugins: [],
 }
